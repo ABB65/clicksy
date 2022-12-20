@@ -3,7 +3,12 @@
     "ID": "1277414d-8287-4071-b22f-710d66f77e57",
     "name": "test",
     "description": "Herhangi bir prodyuct",
-    "price": [],
+    "price": {
+      "ID": "7c2c2180-ae51-45be-ba29-a4cc9988693e",
+      "netPrice": 1000,
+      "discount": 40,
+      "createdAt": 1671537964602
+    },
     "createdAt": 1671537950455
   }
 ]
